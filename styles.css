@@ -1,0 +1,10 @@
+/*Der Hintergrund ist pink*/
+h1 { 
+    background-color: pink;
+    color: white;
+ }
+ /*Die Schriftfarbe in Absätzen ist red*/
+ p {
+     text-align: center; 
+     color: red;
+ }
