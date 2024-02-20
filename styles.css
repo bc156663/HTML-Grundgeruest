@@ -8,3 +8,18 @@ h1 {
      text-align: center; 
      color: red;
  }
+ table{
+    border: 1px solid;
+    width: 100%;
+ }
+ tr{
+    border: 1px solid;
+ }
+ th{
+    border: 1px solid;
+    background-color: crimson;
+ }
+ td{
+    border: 1px solid;
+ }
+
